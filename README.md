@@ -36,5 +36,4 @@ AI Product Strategy • AI-Assisted Prototyping • Conversational Commerce • 
 ### 📫 Let's connect
 
 - **[LinkedIn](https://www.linkedin.com/in/natana-onyia-b9bb4613/)**
-- **[BrunchPass](https://brunchpass.com)**—recent side project
 - 📧 natanaonyia@gmail.com
