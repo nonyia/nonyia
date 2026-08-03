@@ -29,7 +29,7 @@ A case study in what modern PMs can build hands-on when AI is doing the heavy li
 
 ### 🛠 What I work on
 
-AI Product Strategy • Conversational Commerce • LLM & RAG-Grounded Experiences • Subscription Products • Personalization • 0→1 Product Development • Experimentation & A/B Testing • DTC / Retail E-Commerce • Cross-Platform (iOS / Android / .com) • Cross-Functional Leadership
+AI Product Strategy • AI-Assisted Prototyping • Conversational Commerce • LLM & RAG-Grounded Experiences • Subscription Products • Personalization • 0→1 Product Development • Experimentation & A/B Testing • DTC / Retail E-Commerce • Cross-Platform (iOS / Android / .com) • Mentoring & Growing PM Teams
 
 ---
 
