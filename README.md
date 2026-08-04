@@ -4,7 +4,7 @@ Product leader with **10+ years** building consumer experiences across commerce,
 
 Most recently at Nike, I led AI/ML and conversational commerce as Lead PM for **NikeAI**, the company's first GenAI-powered shopping experience, scaling it from 0→1 to **~2× the annualized incremental demand target**.
 
-Based in Atlanta. Currently spending my off-hours on [BrunchPass](https://brunchpass.com).
+Based in Atlanta. Currently building [BrunchPass](https://brunchpass.com).
 
 ---
 
